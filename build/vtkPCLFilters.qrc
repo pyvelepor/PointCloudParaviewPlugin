@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/vtkPCLFilters/ParaViewResources">
+    <file alias="PCLFiltersGUI.xml">../xml/PCLFiltersGUI.xml</file>
+    <file alias="PCLReadersGUI.xml">../xml/PCLReadersGUI.xml</file>
+    <file alias="PCLSourcesGUI.xml">../xml/PCLSourcesGUI.xml</file>
+  </qresource>
+</RCC>

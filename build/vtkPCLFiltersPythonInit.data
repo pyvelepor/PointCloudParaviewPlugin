@@ -1,0 +1,11 @@
+vtkPCLFiltersPython
+vtkAnnotateOBBs
+vtkPCLConversions
+vtkPCLEuclideanClusterExtraction
+vtkPCLNormalEstimation
+vtkPCLOpenNISource
+vtkPCLRadiusOutlierRemoval
+vtkPCDReader
+vtkPCLSACSegmentationCylinder
+vtkPCLSACSegmentationPlane
+vtkPCLVoxelGrid
